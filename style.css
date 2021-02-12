@@ -91,6 +91,9 @@ header nav ul li a:hover{
     background-color:#8d8d8d;
     border-radius:17px;
 }
+.slider-wrapper{
+    box-shadow: 1px 4px 10px #515151;
+}
 .div-pragraph{
     padding:70px 0px;
 }
