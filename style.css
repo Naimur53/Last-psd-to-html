@@ -79,6 +79,18 @@ header nav ul li a:hover{
     padding: 15px !important;
     
 }
+.theme-light a.nivo-prevNav,.theme-light a.nivo-nextNav{
+    background-color:#c5c5c5;
+    border-radius: 50px;
+}
+.theme-light a.nivo-prevNav:hover{
+    background-color:#8d8d8d;
+    border-radius:17px;
+}
+.theme-light a.nivo-nextNav:hover{
+    background-color:#8d8d8d;
+    border-radius:17px;
+}
 .div-pragraph{
     padding:70px 0px;
 }
@@ -208,7 +220,7 @@ header nav ul li a:hover{
 
 }
 .main-footer-bg{
-    background:#202020;
+    background:#202016;
 }
 .main-footer-bg .wrap p{
     color:#aaaaaa;
@@ -218,4 +230,5 @@ header nav ul li a:hover{
     display:flex;
     justify-content: space-between;
     align-items:center;
+    height:70px;
 }
