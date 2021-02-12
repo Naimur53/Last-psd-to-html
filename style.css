@@ -207,6 +207,7 @@ header nav ul li a:hover{
 }
 .check-menu-div ul li{
      background:url(image/checked.png);
+     background-repeat:no-repeat;
 }
 .check-menu-div ul li a{
     display:inline-block;
